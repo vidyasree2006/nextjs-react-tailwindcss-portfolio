@@ -2,11 +2,20 @@
 
 A simple portfolio starter theme built with Next.js, React and Tailwind CSS.
 
-![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8f64c80.png)
+![React-TailwindCSS-Portfolio](./public/images/portfolio-preview.png)
+
 
 ## Demo URL
 
 [https://nextjs-react-tailwindcss-portfolio.vercel.app](https://nextjs-react-tailwindcss-portfolio.vercel.app)
+
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/) for deployment
 
 
 ## Features
@@ -68,5 +77,4 @@ npm run dev
 
 -   Always run `npm install` after pulling new changes
 -   Feel free to use it as your own portfolio
--   Contributions are welcome
-
+-   Contributions are welcome.
