@@ -10,14 +10,14 @@ import {
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Portfolio',
 		url: 'google-health-platform',
 		category: 'Web Application',
 		img: '/images/web-project-2.jpg',
 		ProjectHeader: {
-			title: 'Google Health Platform',
-			publishDate: 'Jul 26, 2021',
-			tags: 'UI / Frontend',
+			title: 'Portfolio',
+			publishDate: 'May 9 , 2025',
+			tags: 'Next.js and Tailwind CSS',
 		},
 		ProjectImages: [
 			{
@@ -37,32 +37,12 @@ export const projectsData = [
 			},
 		],
 		ProjectInfo: {
-			ClientHeading: 'About Client',
 			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'Web Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
+				
 			],
 			ObjectivesHeading: 'Objective',
 			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'To create a responsive personal website that showcases my skills, projects, and achievements while demonstrating front-end development expertise using HTML, CSS, JavaScript, and Bootstrap.',
 			Technologies: [
 				{
 					title: 'Tools & Technologies',
@@ -70,36 +50,45 @@ export const projectsData = [
 						'HTML',
 						'CSS',
 						'JavaScript',
-						'Vue.js',
+						'Node.js',
 						'TailwindCSS',
-						'AdobeXD',
+						'VS Code',
 					],
 				},
 			],
-			ProjectDetailsHeading: 'Challenge',
+			ProjectDetailsHeading: 'Description',
 			ProjectDetails: [
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Technologies Used: HTML, CSS, JavaScript, Bootstrap, Node.js',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'Developed a comprehensive and responsive portfolio website to present personal background, technical skills, and major projects.',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'1. Implemented a multi-section layout including About, Skills, Projects, and Contact pages',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'2. Designed using modern UI components and Bootstrap’s grid system for a clean and adaptive layout across all devices',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'3. Integrated smooth navigation and animations for an engaging user experience',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'4. Deployed using Node.js for dynamic content handling and future scalability',
 				},
 			],
-			SocialSharingHeading: 'Share This',
 			// SocialSharing: [
 			// 	{
 			// 		id: uuidv4(),
@@ -136,14 +125,14 @@ export const projectsData = [
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
+		title: 'Podcast Page',
 		url: 'phoenix-digital-agency',
 		category: 'Mobile Application',
 		img: '/images/mobile-project-2.jpg',
 		ProjectHeader: {
-			title: 'Phoenix Digital Agency',
-			publishDate: 'Jul 26, 2021',
-			tags: 'Mobile Application',
+			title: 'Podcast Page',
+			publishDate: 'Nov 26, 2024',
+			tags: 'Bootstrap / Frontend',
 		},
 		ProjectImages: [
 			{
@@ -163,69 +152,56 @@ export const projectsData = [
 			},
 		],
 		ProjectInfo: {
-			ClientHeading: 'About Client',
 			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'UI Design & Frontend Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
+				
 			],
 			ObjectivesHeading: 'Objective',
 			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'To build a clean, mobile-friendly webpage layout for podcast content, focusing on responsive design and modern layout techniques using Bootstrap and CSS.',
 			Technologies: [
 				{
 					title: 'Tools & Technologies',
 					techs: [
 						'HTML',
 						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
+						'Bootstrap',
+						'VS Code',
 					],
 				},
 			],
-			ProjectDetailsHeading: 'Challenge',
+			ProjectDetailsHeading: 'Description',
 			ProjectDetails: [
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Technologies Used: HTML, CSS, Bootstrap',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'Created a fully responsive and visually appealing webpage for showcasing podcast content.',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'1. Structured the layout to highlight key podcast features such as host details, episodes, and subscription options',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'2. Emphasized mobile responsiveness using Bootstrap’s flex and grid utilities',
 				},
-			],
-			SocialSharingHeading: 'Share This',
+				{
+					id: uuidv4(),
+					details:
+						'3. Enhanced visual appeal with appropriate typography, color themes, and imagery',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'4. Ensured accessibility by following web standards and semantic HTML',
+				},
+			]
 			// SocialSharing: [
 			// 	{
 			// 		id: uuidv4(),
@@ -262,13 +238,13 @@ export const projectsData = [
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
+		title: 'Redesigning Duolingo app using UI',
 		url: 'project-management-ui',
 		category: 'UI/UX Design',
 		img: '/images/ui-project-1.jpg',
 		ProjectHeader: {
-			title: 'Project Management UI',
-			publishDate: 'Jul 26, 2021',
+			title: 'Redesigning Duolingo app using UI',
+			publishDate: 'Dec 26, 2024',
 			tags: 'UI / Frontend',
 		},
 		ProjectImages: [
@@ -289,447 +265,72 @@ export const projectsData = [
 			},
 		],
 		ProjectInfo: {
-			ClientHeading: 'About Client',
 			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'UI Design & Frontend Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
+				
 			],
 			ObjectivesHeading: 'Objective',
 			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'To redesign the Duolingo app interface in Figma using key UI/UX principles to improve user experience, visual clarity, and overall usability.',
 			Technologies: [
 				{
 					title: 'Tools & Technologies',
 					techs: [
 						'HTML',
 						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
+						'UI Designing',
+						'Figma',
 					],
 				},
 			],
-			ProjectDetailsHeading: 'Challenge',
+			ProjectDetailsHeading: 'Description',
 			ProjectDetails: [
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Tools Used: Figma, UI/UX Design Principles',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'Redesigned the user interface of the Duolingo app to enhance usability and visual consistency.',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'1. Conducted UI/UX research and identified friction points in the current user flow',
 				},
 				{
 					id: uuidv4(),
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'2. Applied key design principles:',
 				},
+				{
+					id: uuidv4(),
+					details:
+						'a. Hick’s Law to simplify choices and reduce cognitive load',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'b. Jakob’s Law to maintain consistency with common user expectations',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'c. Miller’s Law to organize information into digestible chunks',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'3. Created high-fidelity mockups using Figma, focusing on typography, spacing, iconography, and intuitive layouts',
+				},
+				{
+					id: uuidv4(),
+					details:
+						'4. Proposed improvements in the navigation structure, content hierarchy, and engagement flow for better retention',
+				},
+				
 			],
-			SocialSharingHeading: 'Share This',
-			// SocialSharing: [
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Twitter',
-			// 		icon: <FiTwitter />,
-			// 		url: 'https://twitter.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Instagram',
-			// 		icon: <FiInstagram />,
-			// 		url: 'https://instagram.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Facebook',
-			// 		icon: <FiFacebook />,
-			// 		url: 'https://facebook.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'LinkedIn',
-			// 		icon: <FiLinkedin />,
-			// 		url: 'https://linkedin.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Youtube',
-			// 		icon: <FiYoutube />,
-			// 		url: 'https://www.youtube.com/c/StomanStudio',
-			// 	},
-			// ],
-		},
-	},
-	{
-		id: 4,
-		title: 'Cloud Storage Platform',
-		url: 'cloud-storage-platform',
-		category: 'UI/UX Design',
-		img: '/images/ui-project-2.jpg',
-		ProjectHeader: {
-			title: 'Cloud Storage Platform',
-			publishDate: 'Jul 26, 2021',
-			tags: 'Web & Cloud',
-		},
-		ProjectImages: [
-			{
-				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
-				img: '/images/ui-project-1.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
-				img: '/images/web-project-2.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
-				img: '/images/mobile-project-2.jpg',
-			},
-		],
-		ProjectInfo: {
-			ClientHeading: 'About Client',
-			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'UI Design & Frontend Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
-			],
-			ObjectivesHeading: 'Objective',
-			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
-			Technologies: [
-				{
-					title: 'Tools & Technologies',
-					techs: [
-						'HTML',
-						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
-					],
-				},
-			],
-			ProjectDetailsHeading: 'Challenge',
-			ProjectDetails: [
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-			],
-			SocialSharingHeading: 'Share This',
-			// SocialSharing: [
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Twitter',
-			// 		icon: <FiTwitter />,
-			// 		url: 'https://twitter.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Instagram',
-			// 		icon: <FiInstagram />,
-			// 		url: 'https://instagram.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Facebook',
-			// 		icon: <FiFacebook />,
-			// 		url: 'https://facebook.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'LinkedIn',
-			// 		icon: <FiLinkedin />,
-			// 		url: 'https://linkedin.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Youtube',
-			// 		icon: <FiYoutube />,
-			// 		url: 'https://www.youtube.com/c/StomanStudio',
-			// 	},
-			// ],
-		},
-	},
-	{
-		id: 5,
-		title: 'WeTalk Social Application',
-		url: 'wetalk-social-app',
-		category: 'Mobile Application',
-		img: '/images/mobile-project-1.jpg',
-		ProjectHeader: {
-			title: 'WeTalk Social Application',
-			publishDate: 'Jul 26, 2021',
-			tags: 'UI / Frontend',
-		},
-		ProjectImages: [
-			{
-				id: uuidv4(),
-				title: 'WeTalk Social Application',
-				img: '/images/ui-project-1.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'WeTalk Social Application',
-				img: '/images/web-project-2.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'WeTalk Social Application',
-				img: '/images/mobile-project-2.jpg',
-			},
-		],
-		ProjectInfo: {
-			ClientHeading: 'About Client',
-			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'UI Design & Frontend Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
-			],
-			ObjectivesHeading: 'Objective',
-			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
-			Technologies: [
-				{
-					title: 'Tools & Technologies',
-					techs: [
-						'HTML',
-						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
-					],
-				},
-			],
-			ProjectDetailsHeading: 'Challenge',
-			ProjectDetails: [
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-			],
-			SocialSharingHeading: 'Share This',
-			// SocialSharing: [
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Twitter',
-			// 		icon: <FiTwitter />,
-			// 		url: 'https://twitter.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Instagram',
-			// 		icon: <FiInstagram />,
-			// 		url: 'https://instagram.com/realstoman',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Facebook',
-			// 		icon: <FiFacebook />,
-			// 		url: 'https://facebook.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'LinkedIn',
-			// 		icon: <FiLinkedin />,
-			// 		url: 'https://linkedin.com/',
-			// 	},
-			// 	{
-			// 		id: uuidv4(),
-			// 		name: 'Youtube',
-			// 		icon: <FiYoutube />,
-			// 		url: 'https://www.youtube.com/c/realstoman',
-			// 	},
-			// ],
-		},
-	},
-	{
-		id: 6,
-		title: 'Apple New Design System',
-		url: 'apple-new-design-system',
-		category: 'Web Application',
-		img: '/images/web-project-1.jpg',
-		ProjectHeader: {
-			title: 'Apple New Design System',
-			publishDate: 'Jul 26, 2021',
-			tags: 'UI / Frontend',
-		},
-		ProjectImages: [
-			{
-				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
-				img: '/images/ui-project-1.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
-				img: '/images/web-project-2.jpg',
-			},
-			{
-				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
-				img: '/images/mobile-project-2.jpg',
-			},
-		],
-		ProjectInfo: {
-			ClientHeading: 'About Client',
-			CompanyInfo: [
-				{
-					id: uuidv4(),
-					title: 'Name',
-					details: 'Company Ltd',
-				},
-				{
-					id: uuidv4(),
-					title: 'Services',
-					details: 'UI Design & Frontend Development',
-				},
-				{
-					id: uuidv4(),
-					title: 'Website',
-					details: 'https://company.com',
-				},
-				{
-					id: uuidv4(),
-					title: 'Phone',
-					details: '555 8888 888',
-				},
-			],
-			ObjectivesHeading: 'Objective',
-			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
-			Technologies: [
-				{
-					title: 'Tools & Technologies',
-					techs: [
-						'HTML',
-						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
-					],
-				},
-			],
-			ProjectDetailsHeading: 'Challenge',
-			ProjectDetails: [
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-				},
-				{
-					id: uuidv4(),
-					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-				},
-			],
-			SocialSharingHeading: 'Share This',
 			// SocialSharing: [
 			// 	{
 			// 		id: uuidv4(),

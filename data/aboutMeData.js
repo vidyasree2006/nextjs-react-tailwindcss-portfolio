@@ -3,10 +3,10 @@ import { v4 as uuidv4 } from 'uuid';
 export const aboutMeData = [
 	{
 		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+		bio: 'My name is Vidyasree Sativada , an aspiring Full Stack Developer passionate about building responsive web applications and continuously learning modern technologies like Javascript and react, Actively involved in UI/UX design projects and commited ts developing effient and user-friendly solutions.',
 	},
 	{
 		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+		bio: 'I have done some projects like creating portfolio,creating a podcast page and redesigning the duolingo app for better interface which include my skills HTML , CSS , Bootstrap , Javascript , React , Node.js , Tailwind CSS , Python , SQL and Tools like Figma and VS Code',
 	},
 ];
