@@ -6,7 +6,7 @@ A simple portfolio starter theme built with Next.js, React and Tailwind CSS.
 
 ## Demo URL
 
-[https://nextjs-tailwindcss-portfolio.vercel.app](https://nextjs-tailwindcss-portfolio.vercel.app)
+[https://nextjs-react-tailwindcss-portfolio.vercel.app](https://nextjs-react-tailwindcss-portfolio.vercel.app)
 
 
 ## Features
